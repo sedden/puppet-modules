@@ -1,0 +1,24 @@
+[submodule "vcsrepo"]
+	path = vcsrepo
+	url = https://github.com/puppetlabs/puppetlabs-vcsrepo.git
+[submodule "stdlib"]
+	path = stdlib
+	url = https://github.com/puppetlabs/puppetlabs-stdlib.git
+[submodule "etckeeper"]
+	path = etckeeper
+	url = https://github.com/sedden/puppet-etckeeper.git
+[submodule "postgresql"]
+	path = postgresql
+	url = https://github.com/camptocamp/puppet-postgresql
+[submodule "augeas"]
+	path = augeas
+	url = https://github.com/camptocamp/puppet-augeas.git
+[submodule "apt"]
+	path = apt
+	url = https://github.com/sedden/puppet-apt.git
+[submodule "ntp"]
+	path = ntp
+	url = https://github.com/sedden/puppet-ntp.git
+[submodule "munin"]
+	path = munin
+	url = https://github.com/sedden/puppet-munin.git
