@@ -22,3 +22,12 @@
 [submodule "munin"]
 	path = munin
 	url = https://github.com/sedden/puppet-munin.git
+[submodule "apache"]
+	path = apache
+	url = https://github.com/camptocamp/puppet-apache
+[submodule "concat"]
+	path = concat
+	url = https://github.com/ripienaar/puppet-concat.git
+[submodule "foreman"]
+	path = foreman
+	url = https://github.com/theforeman/puppet-foreman.git
