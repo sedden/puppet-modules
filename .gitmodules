@@ -31,3 +31,6 @@
 [submodule "foreman"]
 	path = foreman
 	url = https://github.com/theforeman/puppet-foreman.git
+[submodule "pgconf"]
+	path = pgconf
+	url = https://github.com/camptocamp/puppet-pgconf.git
