@@ -30,7 +30,7 @@
 	url = https://github.com/ripienaar/puppet-concat.git
 [submodule "foreman"]
 	path = foreman
-	url = https://github.com/theforeman/puppet-foreman.git
+url=https://github.com/sedden/puppet-foreman.git
 [submodule "pgconf"]
 	path = pgconf
 	url = https://github.com/camptocamp/puppet-pgconf.git
